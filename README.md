@@ -1,4 +1,4 @@
-###👋 ¡Holi, soy Alicia!
+### 👋 ¡Holi, soy Alicia!
 
 <!--
 **AliSanLo/AliSanLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
