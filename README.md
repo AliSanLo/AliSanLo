@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=AliSanLo&theme=cobalt&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" alt="Commit Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSanLo&theme=cobalt&layout=compact" alt="Language Stats" />
 </p>
-# 👋 ¡Hola, soy Alicia!
+ 👋 ¡Hola, soy Alicia!
 
 
 
@@ -26,7 +26,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en la **Univers
 
 ## 💡 Sobre mí
 
-- 🎓 Grado en Humanidades + Máster en Investigación y Gestión del Patrimonio. me gusta la idea de unir la programación con la cultura, el arte y la historia. De ahí mi interés especial en el campo de las **humanidades digitales**.
+- 🎓 Grado en Humanidades + Máster en Investigación y Gestión del Patrimonio. Me gusta la idea de unir la programación con la cultura, el arte y la historia. De ahí mi interés especial en el campo de las **humanidades digitales**.
 - 📚 Amante de la lectura, 🎧 la música y 🐱 los gatos.
 
 ## 🚀 En lo que estoy trabajando
